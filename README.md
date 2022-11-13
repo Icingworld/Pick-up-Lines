@@ -1,6 +1,9 @@
 # Pick-up-Lines
 土味情话生成器
 
+# 来源
+土味情话均来源于BiliBili视频评论区
+
 # 使用方法
 修改`main.py`中
 ```python
